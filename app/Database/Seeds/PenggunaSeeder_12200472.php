@@ -4,7 +4,7 @@ namespace App\Database\Seeds;
 
 use CodeIgniter\Database\Seeder;
 
-class PenggunaSeeder extends Seeder
+class PenggunaSeeder_12200472 extends Seeder
 {
     public function run()
     {
@@ -19,7 +19,7 @@ class PenggunaSeeder extends Seeder
         ],
         [
             'nama'      => '12200472',
-        'password'  => md5('Irna Relia Wati')
+        'password'  => md5('IrnaReliaWati')
         ]
     ];
 
